@@ -16,6 +16,7 @@ If you would like to submit your own event, please edit [this file](https://gith
 
 | Location |           When            |               What                |
 | -------- | ------------------------- | --------------------------------- |
+| London, UK | 2019-11-07 - 2019-11-08, 09:00 - 18:00 | [https://codesync.global/conferences/code-mesh-ldn/?utm_source=Events&utm_medium=RustFest%20EU&utm_campaign=Code%20Mesh%20LDN%2019#call-for-talks](Alternative tech, including Rust, talks) |
 | City, CC | 2019-09-XX, 18:00 - 21:00 | An example meeting [with link](#) |
 
 # Post Events
